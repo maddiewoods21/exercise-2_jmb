@@ -1,0 +1,10 @@
+body {
+font-family: 'objectivity', sans-serif;
+}
+
+
+
+@font-face {
+  font-family: 'objectivity';
+  src: url(/Users/madelinewoods/Documents/RISD/2018_2019/winter_session/exercises/jmb/exercise-2_jmb/objectivity-woff)  format('woff2');
+}
